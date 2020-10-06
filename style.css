@@ -14,7 +14,7 @@
         background-color: #db0a5b;
 }
 
-input {
+input[type=text] {
         width: 30%;
         margin-left: 5px;
 }
