@@ -1,17 +1,32 @@
-.smiley{text-align: center;}
+.smiley {
+        text-align: center;
+}
 
-.bleu{background-color: #2574a9;}
+.bleu {
+        background-color: #2574a9;
+}
 
-.purple{background-color: #9a12b3;}
+.purple {
+        background-color: #9a12b3;
+}
 
-.rose{background-color: #db0a5b;}
+.rose {
+        background-color: #db0a5b;
+}
 
-input{width: 30%;
-        margin-left: 5px;}
+input {
+        width: 30%;
+        margin-left: 5px;
+}
 
-textarea{margin-left: 5px;}
+textarea {
+        margin-left: 5px;
+}
 
-input[type=submit]{width:100px;
-    margin-left:5px;
-    box-shadow:2px 2px 2px #107ccd;
-    cursor:pointer;}
+input[type=submit] {
+        width: 100px;
+        margin-left: 5px;
+        box-shadow: 2px 2px 2px #107ccd;
+        cursor: pointer;
+        border-radius: 5px;
+}
